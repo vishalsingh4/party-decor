@@ -1,1 +1,1 @@
-# party-decor
+A basic HTML website for party and event decoration.
